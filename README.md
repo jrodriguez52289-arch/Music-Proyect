@@ -41,7 +41,7 @@ desde los 15 años, compone canciones para su banda indie amateur.
 | Otros músicos recomendando software complicado | Termina olvidando las ideas o improvisando de nuevo |
 
 **Imagen del Mapa de Empatía:**
-![Mapa de Empatía](https://github.com/jrodriguez52289-arch/Music-Proyect/blob/main/Docs/Design%20Thinking.png)
+![Mapa de Empatía](https://github.com/jrodriguez52289-arch/Music-Proyect/blob/main/Docs/Mapa%20de%20empat%C3%ADa.png)
 
 ---
 
