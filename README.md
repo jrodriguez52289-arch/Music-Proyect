@@ -74,21 +74,6 @@ Cada "peor característica" se invirtió en una fortaleza diferenciadora:
 
 ---
 
-## 📸 Evidencia Fotográfica de la Sesión
-
-### Foto 1: Sesión de trabajo en equipo
-![Equipo trabajando](ruta/foto1.jpg)
-*Juan Pablo, Mauricio y Abner durante la sesión de Design Thinking*
-
-### Foto 2: Proceso de llenado del Mapa de Empatía
-![Proceso](ruta/foto2.jpg)
-*Discutiendo las perspectivas del usuario tipo*
-
-### Foto 3: Bocetos iniciales de la interfaz
-![Bocetos](ruta/foto3.jpg)
-*Primeros dibujos de la interfaz "un solo botón"*
-
----
 
 ## 💡 5 Insights Principales (Conclusiones del Proceso)
 
