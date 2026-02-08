@@ -104,7 +104,7 @@ Cada "peor característica" se invirtió en una fortaleza diferenciadora:
 ## 📅 Próximos Pasos
 
 - [ ] Implementar algoritmo de reconocimiento de notas (Mauricio)
-- [ ] Ampliar dataset de piano a 500 grabaciones (Juan Pablo)
+- [ ] Ampliar dataset de piano a 50 grabaciones (Juan Pablo)
 - [ ] Aplicar cuestionario a 50+ músicos (Abner)
 - [ ] Desarrollar prototipo de interfaz en Figma/Canva
 
