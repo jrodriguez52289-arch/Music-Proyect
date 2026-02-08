@@ -6,7 +6,7 @@ Proyecto musical desarrollado para la conversión de audio a partituras y uso de
 ## 📋 Información del Proyecto
 - **Nombre del emprendimiento:** Music Hearts
 - **Fase documentada:** 3.3 y 3.4 - Técnica Creativa (Design Thinking)
-- **Fecha de la sesión:** [DD/MM/AAAA]
+- **Fecha de la sesión:** [08/02/2026]
 - **Lugar:** [Ciudad de Querétaro / Modalidad presencial o remota]
 - **Integrantes:** 
   - Juan Pablo (Director de Datos y Audio)
