@@ -11,7 +11,6 @@ Proyecto musical desarrollado para la conversión de audio a partituras y uso de
 - **Integrantes:** 
   - Juan Pablo (Director de Datos y Audio)
   - Mauricio (Director Técnico y Desarrollo)
-  - Abner (Director de Investigación y Documentación)
 
 ---
 
@@ -105,7 +104,6 @@ Cada "peor característica" se invirtió en una fortaleza diferenciadora:
 
 - [ ] Implementar algoritmo de reconocimiento de notas (Mauricio)
 - [ ] Ampliar dataset de piano a 50 grabaciones (Juan Pablo)
-- [ ] Aplicar cuestionario a 50+ músicos (Abner)
 - [ ] Desarrollar prototipo de interfaz en Figma/Canva
 
 ---
