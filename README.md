@@ -97,7 +97,7 @@ Cada "peor característica" se invirtió en una fortaleza diferenciadora:
 ## 🔗 Enlaces del Proyecto
 
 - **Repositorio técnico:** [github.com/tuusuario/music-hearts](url)
-- **Documento completo:** [Enlace al PDF del proyecto]
+- **Documento completo:** [Docs/Documentation.pdf]
 - **Cuestionario de validación:** [https://forms.gle/FWMp9Q99U3ivKSVa8]
 
 ---
