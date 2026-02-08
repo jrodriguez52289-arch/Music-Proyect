@@ -96,7 +96,7 @@ Cada "peor característica" se invirtió en una fortaleza diferenciadora:
 
 ## 🔗 Enlaces del Proyecto
 
-- **Documento completo:** [Docs/Documentation.pdf]
+- **Documento completo:** [https://github.com/jrodriguez52289-arch/Music-Proyect/blob/main/Docs/Documentation.pdf]
 - **Cuestionario de validación:** [https://forms.gle/FWMp9Q99U3ivKSVa8]
 
 ---
